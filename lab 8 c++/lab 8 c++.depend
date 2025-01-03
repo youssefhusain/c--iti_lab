@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1734351903 source:d:\stady\work_project\lab 8 c++\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<string>
+
